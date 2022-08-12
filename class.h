@@ -6,9 +6,15 @@ using namespace std;
 
 class Postac
 {
+string nazwa;
+int hp;
+int atk;
+
+
 public:
 
-void wyswietl();
+string nazwa_getter(){return nazwa;}
+int hp_getter(){return hp;}
 
 
 
