@@ -1,4 +1,3 @@
-
 #include "class.h"
 #include "class.cpp"
 

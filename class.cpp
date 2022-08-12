@@ -1,7 +1,8 @@
-#include "class.h"
-#include <iostream>
-using namespace std;
 
+#include <iostream>
+#include "class.h"
+
+using namespace std;
 
 void Postac::wyswietl()
 {cout<<"Hello  Jakubek"<<endl;}
